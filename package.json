@@ -1,0 +1,12 @@
+{
+  "author": "Sebastien Barrau",
+  "name": "BasicSocketioProject",
+  "description": "A get started socket.io project",
+  "version": "0.0.1",
+  "repository": "",
+  "dependencies": {
+    "colors": "*",
+    "express": "latest",
+   "socket.io": "latest"
+  }
+}
